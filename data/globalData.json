@@ -1,12 +1,158 @@
 {
-  "GlobalDataModel": "Operation GlobalDataModel failed: Request timed out., skipping to the next one.",
-  "GlobalDataModel_details": {
-    "error": {
-      "message": "Request timed out.",
-      "type": "APITimeoutError",
-      "details": null
+  "enable_development_mode": false,
+  "company_name": "Stinson Orthodontics",
+  "domain": "stinson.roostergrintemplates.com",
+  "email": "info@roostergrin.com",
+  "phone": {
+    "number": "415-528-2520",
+    "href": "tel:+14155282520",
+    "aria": "4 1 5, 5 2 8, 2 5 2 0"
+  },
+  "location": [
+    {
+      "title": "",
+      "address": {
+        "street": "575 Sutter St.",
+        "suite": "Suite 503",
+        "city_state": "San Francisco, CA 94102",
+        "coordinates": {
+          "longitude": "-122.4096941",
+          "latitude": "37.7888261"
+        }
+      },
+      "phone": {
+        "number": "415-528-2520",
+        "href": "tel:+14155282520"
+      },
+      "email": "info@stinson.com",
+      "hours": [
+        {
+          "day": "Mon",
+          "time": "9 - 6"
+        },
+        {
+          "day": "Tues - Thurs",
+          "time": "9 - 5"
+        },
+        {
+          "day": "Fri",
+          "time": "10 - 5"
+        },
+        {
+          "day": "Sat - Sun",
+          "time": "Closed"
+        }
+      ],
+      "directions_link": {
+        "href": "https://www.google.com/maps/search/?api=1&query=575+Sutter+St.+Suite+503%2C+San+Francisco%2C+CA+94102",
+        "label": "Get Directions"
+      },
+      "special_note": ""
+    }
+  ],
+  "typography": [
+    {
+      "label": "font",
+      "font": "'Open Sans', helvetica, arial, sans-serif"
     },
-    "input_data": "No data available",
-    "partial_result": null
+    {
+      "label": "font-title",
+      "font": "'Archivo', sans-serif"
+    }
+  ],
+  "top_bar": {
+    "enable_top_bar": false,
+    "type": "links",
+    "theme": "dark",
+    "content_alignment": "right",
+    "links": [
+      {
+        "icon": "tooth-two-v2",
+        "text": "575 Sutter St. Suite 503, San Francisco, CA 94102",
+        "href": "https://www.google.com/maps/search/?api=1&query=575+Sutter+St.+Suite+503%2C+San+Francisco%2C+CA+94102",
+        "label": "View 575 Sutter St. Suite 503, San Francisco, CA 94102 on google maps",
+        "new_window": true
+      },
+      {
+        "icon": "phone",
+        "text": "415-528-2520",
+        "href": "tel:+14155282520",
+        "label": "Call 4 1 5. 5 2 8. 2 5 2 0.",
+        "new_window": false
+      }
+    ],
+    "announcement": {
+      "icon": "tooth-two-v2",
+      "label": "Open COVID 19 update modal.",
+      "text": "COVID 19 Update. Click here to learn how we keep you safe!",
+      "mobile_text": "COVID 19 Update",
+      "modal": {
+        "title": "COVID 19 Update",
+        "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>\n"
+      }
+    }
+  },
+  "nav": {
+    "cta_buttons": true,
+    "buttons": [
+      {
+        "button": {
+          "type": "nuxt",
+          "style": "primary",
+          "label": "Schedule Consultation",
+          "aria_label": "Schedule a consultation",
+          "href": "",
+          "path": "/contact",
+          "hash": "#form",
+          "external": false,
+          "include_icon": false,
+          "icon": "tooth-two-v2",
+          "color": "primary"
+        }
+      }
+    ],
+    "floating": false
+  },
+  "primary_cta": {
+    "label": "Schedule Consultation",
+    "path": "/contact",
+    "hash": "#form",
+    "external": false,
+    "href": ""
+  },
+  "footer": {
+    "social_media": [
+      {
+        "href": "/#",
+        "icon": "facebook"
+      },
+      {
+        "href": "/#",
+        "icon": "twitter"
+      },
+      {
+        "href": "/#",
+        "icon": "instagram"
+      }
+    ],
+    "add_border": false
+  },
+  "enable_popup": false,
+  "popup": {
+    "title": "Welcome to Stinson Orthodontics",
+    "text": "",
+    "image": {
+      "src": "https://d2jdm9a19iwpm4.cloudfront.net/stinson-logo.svg",
+      "webp": "",
+      "alt": "",
+      "aria_hidden": false,
+      "bgColor": "",
+      "imageBackground": false,
+      "addLoader": false,
+      "objectPosition": "",
+      "forceAlt": "",
+      "loading_mask": "",
+      "image_selection_hints": null
+    }
   }
 }
