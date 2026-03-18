@@ -2,7 +2,7 @@
   "Home": [
     {
       "acf_fc_layout": "hero",
-      "title": "Rooster Grin Media",
+      "title": "Lakeshore Orthodontics",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -12,16 +12,16 @@
         "href": "",
         "path": "/contact",
         "hash": "#form",
-        "external": true,
+        "external": false,
         "include_icon": false,
         "icon": "pencil",
-        "color": "black"
+        "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://ik.imagekit.io/rooster/tr:w-1920,h-1280,f-jpg,q-auto,fo-auto/241612674_Group_of_a_young_coworkers_dressed_casually_workin.jpg",
-        "webp": "https://ik.imagekit.io/rooster/tr:w-1920,h-1280,f-webp,q-auto,fo-auto/241612674_Group_of_a_young_coworkers_dressed_casually_workin.jpg",
-        "alt": "Rooster Grin team collaborating on digital marketing and web projects",
+        "src": "https://ik.imagekit.io/rooster/tr:w-1920,h-1080,f-jpg,q-80/203779424_People_happiness_and_facial_expressions_concept_Pr.jpg",
+        "webp": "https://ik.imagekit.io/rooster/tr:w-1920,h-1080,f-webp,q-80/203779424_People_happiness_and_facial_expressions_concept_Pr.jpg",
+        "alt": "Happy people showing beautiful smiles at Lakeshore Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -41,344 +41,16 @@
       "small": false
     },
     {
-      "acf_fc_layout": "block_text_fh",
-      "title": "Welcome to Rooster Grin Media",
-      "paragraphs": [
-        {
-          "text": "At Rooster Grin Media, we empower small practices with practical, measurable digital tools that help you connect with patients and grow your business."
-        },
-        {
-          "text": "From thoughtful web design and reliable hosting to targeted marketing and HIPAA-friendly admin tools, we build solutions that make your team more efficient and your patients’ experience easier."
-        }
-      ],
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "add_texture": true,
-      "linear_gradient": ""
-    },
-    {
-      "acf_fc_layout": "multi_item_row",
-      "title": "What We Do",
-      "items": [
-        {
-          "title": "Web Design & Hosting",
-          "icon": "laptop-tooth",
-          "image": {
-            "src": "https://ik.imagekit.io/rooster/tr:w-1000,f-jpg,q-auto,fo-auto/305205546.jpg",
-            "webp": "https://ik.imagekit.io/rooster/tr:w-1000,f-webp,q-auto,fo-auto/305205546.jpg",
-            "alt": "",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "text": "Template and custom websites, fast hosting, and email migration so your site performs and your staff stay connected.",
-          "add_button": false,
-          "button": {
-            "button_type": "nuxt_link",
-            "path": "",
-            "hash": "",
-            "href": "",
-            "label": "",
-            "aria": ""
-          }
-        },
-        {
-          "title": "Digital Marketing & SEO",
-          "icon": "big-computer-tooth",
-          "image": {
-            "src": "https://ik.imagekit.io/rooster/tr:w-1000,f-jpg,q-auto,fo-auto/279568799_Data_Analysis_for_Business_and_Finance_Concept_Gra.jpg",
-            "webp": "https://ik.imagekit.io/rooster/tr:w-1000,f-webp,q-auto,fo-auto/279568799_Data_Analysis_for_Business_and_Finance_Concept_Gra.jpg",
-            "alt": "",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "text": "SEO, Google Ads, and targeted campaigns that increase visibility and drive the right patients to your practice.",
-          "add_button": false,
-          "button": {
-            "button_type": "nuxt_link",
-            "path": "",
-            "hash": "",
-            "href": "",
-            "label": "",
-            "aria": ""
-          }
-        },
-        {
-          "title": "Admin & Compliance",
-          "icon": "gear-process-tooth",
-          "image": {
-            "src": "https://ik.imagekit.io/rooster/tr:w-1000,f-jpg,q-auto,fo-auto/1029597391_Cyber_security_protects_login_password_and_secure.jpg",
-            "webp": "https://ik.imagekit.io/rooster/tr:w-1000,f-webp,q-auto,fo-auto/1029597391_Cyber_security_protects_login_password_and_secure.jpg",
-            "alt": "",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "text": "HIPAA-friendly health history forms, secure data handling, and integrated admin tools to reduce paperwork and risk.",
-          "add_button": false,
-          "button": {
-            "button_type": "nuxt_link",
-            "path": "",
-            "hash": "",
-            "href": "",
-            "label": "",
-            "aria": ""
-          }
-        },
-        {
-          "title": "Patient-Facing Tools",
-          "icon": "schedule-tooth",
-          "image": {
-            "src": "https://ik.imagekit.io/rooster/tr:w-1000,f-jpg,q-auto,fo-auto/241877737_Dentist_with_young_woman_assistant_working_with_co.jpg",
-            "webp": "https://ik.imagekit.io/rooster/tr:w-1000,f-webp,q-auto,fo-auto/241877737_Dentist_with_young_woman_assistant_working_with_co.jpg",
-            "alt": "",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "text": "Online scheduling, mobile messaging, and review management that simplify the patient journey and increase conversions.",
-          "add_button": false,
-          "button": {
-            "button_type": "nuxt_link",
-            "path": "",
-            "hash": "",
-            "href": "",
-            "label": "",
-            "aria": ""
-          }
-        }
-      ],
-      "button": {
-        "type": "nuxt",
-        "style": "secondary",
-        "label": "",
-        "aria_label": "",
-        "href": "",
-        "path": "",
-        "hash": "",
-        "external": false,
-        "include_icon": false,
-        "icon": "pencil",
-        "color": "black"
-      },
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "media_type": "icon",
-      "linear_gradient": "",
-      "add_cta": false,
-      "left_aligned": false,
-      "large_title": true,
-      "alt_color": true
-    },
-    {
-      "acf_fc_layout": "block_masonary_grid",
-      "title": "Practice Solutions",
-      "paragraphs": [
-        {
-          "text": "From patient online scheduling to automated reminders and HIPAA-friendly health forms, we build practical solutions that streamline operations and improve patient experience."
-        }
-      ],
-      "button": {
-        "type": "nuxt",
-        "style": "secondary",
-        "label": "Learn More",
-        "aria_label": "Learn more about our services",
-        "href": "",
-        "path": "/treatments",
-        "hash": "",
-        "external": true,
-        "include_icon": false,
-        "icon": "pencil",
-        "color": "black"
-      },
-      "links": true,
-      "columns": 4,
-      "items": [
-        {
-          "image": {
-            "src": "https://ik.imagekit.io/rooster/tr:w-1000,f-jpg,q-auto,fo-auto/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
-            "webp": "https://ik.imagekit.io/rooster/tr:w-1000,f-webp,q-auto,fo-auto/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
-            "alt": "Patient Online Scheduling widget on a practice website",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "title": "Patient Online Scheduling",
-          "path": "/treatments",
-          "hash": "#patient-online-scheduling"
-        },
-        {
-          "image": {
-            "src": "https://ik.imagekit.io/rooster/tr:w-1000,f-jpg,q-auto,fo-auto/232435916_Electronic_medical_record_with_patient_data_and_he.jpg",
-            "webp": "https://ik.imagekit.io/rooster/tr:w-1000,f-webp,q-auto,fo-auto/232435916_Electronic_medical_record_with_patient_data_and_he.jpg",
-            "alt": "Automated appointment reminders displayed on a mobile phone",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "title": "Appointment Reminders",
-          "path": "/treatments",
-          "hash": "#appointment-reminders"
-        },
-        {
-          "image": {
-            "src": "https://ik.imagekit.io/rooster/tr:w-1000,f-jpg,q-auto,fo-auto/254480058_A_dentist_examines_a_patients_x-ray_picture.jpg",
-            "webp": "https://ik.imagekit.io/rooster/tr:w-1000,f-webp,q-auto,fo-auto/254480058_A_dentist_examines_a_patients_x-ray_picture.jpg",
-            "alt": "Sample HIPAA-compliant online health history form",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          },
-          "title": "Health History Forms",
-          "path": "/treatments",
-          "hash": "#health-history-forms"
-        }
-      ],
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "linear_gradient": "",
-      "reverse_row": false
-    },
-    {
-      "acf_fc_layout": "multi_item_testimonial",
-      "title": "Client Testimonials",
-      "review_text": "Read More Reviews",
-      "links": [],
-      "testimonials": [
-        {
-          "author": "Dr. John Graham",
-          "testimonial": "“Working with Rooster Grin’s team was incredibly easy. I gave them a short brief of what I wanted and they hit it out of the park. I couldn’t be happier.”"
-        },
-        {
-          "author": "Manjari K.",
-          "testimonial": "“I am so happy with Rooster Grin. I love the online scheduling widget- we have had multiple new patients use it to schedule consults and one said it was the easiest appointment she has ever made.\""
-        },
-        {
-          "author": "Fionnat",
-          "testimonial": "“Outstanding customer service. They went above and beyond to set up our 4 orthodontic offices with their patient confirmation system. I can't say enough about the customer service. Tops in the nation.”"
-        },
-        {
-          "author": "Bill K.",
-          "testimonial": "“Rooster Grin's consistently excellent response times and follow through are both noteworthy and commendable. This is the company you want working for you.”"
-        }
-      ],
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "has_background": true,
-      "background": "bg1",
-      "linear_gradient": ""
-    },
-    {
-      "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
-      "content_block": "text_block",
-      "text": "",
-      "social_links": [],
-      "email": "",
-      "button": {
-        "type": "nuxt",
-        "style": "primary",
-        "label": "Schedule Consultation",
-        "aria_label": "Schedule a consultation",
-        "href": "",
-        "path": "/contact",
-        "hash": "#form",
-        "external": false,
-        "include_icon": false,
-        "icon": "",
-        "color": ""
-      },
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "background_type": "has_background",
-      "background": "bg2",
-      "add_texture": false,
-      "linear_gradient": "",
-      "image": {
-        "src": "https://ik.imagekit.io/rooster/tr:w-1000,f-jpg,q-auto,fo-auto/644161499_Generative_AI_portrait_charming_blonde_hair_girl_w.jpg",
-        "webp": "https://ik.imagekit.io/rooster/tr:w-1000,f-webp,q-auto,fo-auto/644161499_Generative_AI_portrait_charming_blonde_hair_girl_w.jpg",
-        "alt": "Team meeting to plan patient-facing tools and marketing",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": null
-      },
-      "reversed": false,
-      "centered": true,
-      "large_title": true,
-      "text_color": "primary"
-    },
-    {
       "seo": {
-        "page_title": "Home - Rooster Grin Media",
-        "page_description": "Rooster Grin Media provides web design, digital marketing, HIPAA-friendly forms, and patient-facing tools to help healthcare practices grow.",
-        "page_keywords": "web design, digital marketing, online scheduling, HIPAA forms, practice marketing, Rooster Grin",
+        "page_title": "Home - Lakeshore Orthodontics",
+        "page_description": "Lakeshore Orthodontics provides family-oriented orthodontic care with braces, Invisalign® retainers, and easy scheduling in Emeryville, ON.",
+        "page_keywords": "orthodontics, Invisalign, braces, retainers, family orthodontist, Emeryville",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Home - Rooster Grin Media",
-            "description": "Rooster Grin Media provides web design, digital marketing, HIPAA-friendly forms, and patient-facing tools to help healthcare practices grow.",
-            "image": "https://d22lbo23j84nfg.cloudfront.net/home/home-web-1.jpeg"
+            "title": "Home - Lakeshore Orthodontics",
+            "description": "Lakeshore Orthodontics provides family-oriented orthodontic care with braces, Invisalign® retainers, and easy scheduling in Emeryville, ON.",
+            "image": "https://ik.imagekit.io/rooster/tr:w-1920,h-1080,f-jpg,q-80/203779424_People_happiness_and_facial_expressions_concept_Pr.jpg"
           }
         }
       }
