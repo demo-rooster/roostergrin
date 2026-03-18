@@ -2,7 +2,7 @@
   "Home": [
     {
       "acf_fc_layout": "hero",
-      "title": "Lakeshore Orthodontics",
+      "title": "Rooster Grin Media",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -15,13 +15,13 @@
         "external": false,
         "include_icon": false,
         "icon": "pencil",
-        "color": "primary"
+        "color": "black"
       },
       "media_type": "image",
       "image": {
-        "src": "https://ik.imagekit.io/rooster/tr:w-1920,h-1080,f-jpg,q-80/203779424_People_happiness_and_facial_expressions_concept_Pr.jpg",
-        "webp": "https://ik.imagekit.io/rooster/tr:w-1920,h-1080,f-webp,q-80/203779424_People_happiness_and_facial_expressions_concept_Pr.jpg",
-        "alt": "Happy people showing beautiful smiles at Lakeshore Orthodontics",
+        "src": "https://d22lbo23j84nfg.cloudfront.net/home/home-web-1.jpeg",
+        "webp": "https://d22lbo23j84nfg.cloudfront.net/home/home-web-1.jpeg",
+        "alt": "Modern team and workspace showing smiling professionals and bright office environment",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -41,16 +41,347 @@
       "small": false
     },
     {
+      "acf_fc_layout": "block_text_fh",
+      "title": "Welcome to Rooster Grin Media",
+      "paragraphs": [
+        {
+          "text": "At Rooster Grin Media, we empower your small business with effective tools to help you connect with your customers. We provide web design and hosting, digital marketing, patient reminders and scheduling tools, and integrated services to streamline administration and grow your practice."
+        },
+        {
+          "text": "We focus on practical, measurable results and easy-to-use systems, so your team spends less time on paperwork and more time delivering care. Our approach is hands-on, collaborative, and built to fit the way your practice runs."
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "add_texture": true,
+      "linear_gradient": ""
+    },
+    {
+      "acf_fc_layout": "multi_item_row",
+      "title": "Why Choose Us",
+      "items": [
+        {
+          "title": "Web Design & Hosting",
+          "icon": "big-computer-tooth",
+          "image": {
+            "src": "https://d22lbo23j84nfg.cloudfront.net/home/home-marketing.jpg",
+            "webp": "https://d22lbo23j84nfg.cloudfront.net/home/home-marketing.jpg",
+            "alt": "Custom website design displayed on a desktop and mobile device",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "center",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "What sets us apart"
+            }
+          },
+          "text": "Templates and custom sites that match your brand, plus hosting and email migration to keep everything running smoothly.",
+          "add_button": false,
+          "button": {
+            "button_type": "nuxt_link",
+            "path": "/contact",
+            "hash": "#form",
+            "href": "",
+            "label": "Get Started",
+            "aria": "Contact us about web design"
+          }
+        },
+        {
+          "title": "Digital Marketing",
+          "icon": "laptop-tooth",
+          "image": {
+            "src": "https://d22lbo23j84nfg.cloudfront.net/home/home-marketing.jpg",
+            "webp": "https://d22lbo23j84nfg.cloudfront.net/home/home-marketing.jpg",
+            "alt": "Search results and paid ad examples on desktop screens",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "center",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Better Care"
+            }
+          },
+          "text": "SEO, Google Ads and social campaigns that help patients find your practice and book appointments.",
+          "add_button": false,
+          "button": {
+            "button_type": "nuxt_link",
+            "path": "/contact",
+            "hash": "#form",
+            "href": "",
+            "label": "Learn More",
+            "aria": "Learn more about marketing"
+          }
+        },
+        {
+          "title": "Integrated Services",
+          "icon": "gear-process-tooth",
+          "image": {
+            "src": "https://d22lbo23j84nfg.cloudfront.net/home/home-thread-2.png",
+            "webp": "https://d22lbo23j84nfg.cloudfront.net/home/home-thread-2.png",
+            "alt": "Patient scheduling and appointment reminders on mobile device",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "center",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "All Ages"
+            }
+          },
+          "text": "Appointment reminders, HIPAA‑compliant online forms, online scheduling, and VOIP that reduce no-shows and simplify intake.",
+          "add_button": false,
+          "button": {
+            "button_type": "nuxt_link",
+            "path": "/contact",
+            "hash": "#form",
+            "href": "",
+            "label": "See Services",
+            "aria": "View our integrated services"
+          }
+        }
+      ],
+      "button": {
+        "type": "nuxt",
+        "style": "secondary",
+        "label": "",
+        "aria_label": "",
+        "href": "",
+        "path": "",
+        "hash": "",
+        "external": false,
+        "include_icon": false,
+        "icon": "pencil",
+        "color": "black"
+      },
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "media_type": "icon",
+      "linear_gradient": "",
+      "add_cta": false,
+      "left_aligned": false,
+      "large_title": true,
+      "alt_color": true
+    },
+    {
+      "acf_fc_layout": "block_masonary_grid",
+      "title": "Our Services",
+      "paragraphs": [
+        {
+          "text": "We build websites, run targeted marketing, and implement scheduling and reminder systems that help practices grow and run efficiently."
+        }
+      ],
+      "button": {
+        "type": "nuxt",
+        "style": "secondary",
+        "label": "Learn More",
+        "aria_label": "Learn more about our services",
+        "href": "",
+        "path": "/treatments",
+        "hash": "",
+        "external": false,
+        "include_icon": false,
+        "icon": "pencil",
+        "color": "black"
+      },
+      "links": true,
+      "columns": 4,
+      "items": [
+        {
+          "image": {
+            "src": "https://d22lbo23j84nfg.cloudfront.net/home/home-marketing.jpg",
+            "webp": "https://d22lbo23j84nfg.cloudfront.net/home/home-marketing.jpg",
+            "alt": "Digital marketing campaign visuals",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "center",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
+          },
+          "title": "Digital Marketing",
+          "path": "/treatments",
+          "hash": "#digital-marketing"
+        },
+        {
+          "image": {
+            "src": "https://d22lbo23j84nfg.cloudfront.net/home/home-thread-2.png",
+            "webp": "https://d22lbo23j84nfg.cloudfront.net/home/home-thread-2.png",
+            "alt": "Online scheduling interface on desktop and mobile",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "center",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Initial Visit"
+            }
+          },
+          "title": "Patient Online Scheduling",
+          "path": "/treatments",
+          "hash": "#patient-online-scheduling"
+        },
+        {
+          "image": {
+            "src": "https://d22lbo23j84nfg.cloudfront.net/home/home-marketing.jpg",
+            "webp": "https://d22lbo23j84nfg.cloudfront.net/home/home-marketing.jpg",
+            "alt": "Automated appointment reminders and secure online forms",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "center",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Gentle"
+            }
+          },
+          "title": "Appointment Reminders & Forms",
+          "path": "/treatments",
+          "hash": "#appointment-reminders-forms"
+        },
+        {
+          "image": {
+            "src": "https://d22lbo23j84nfg.cloudfront.net/case-study/home-work-1.jpg",
+            "webp": "https://d22lbo23j84nfg.cloudfront.net/case-study/home-work-1.jpg",
+            "alt": "Portfolio case study showing a completed website project",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "center",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": {
+              "context_category": "Treatments Hero"
+            }
+          },
+          "title": "Case Study / Portfolio",
+          "path": "/treatments",
+          "hash": "#case-study-portfolio"
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "linear_gradient": "",
+      "reverse_row": false
+    },
+    {
+      "acf_fc_layout": "multi_item_testimonial",
+      "title": "What Our Clients Say",
+      "review_text": "Read More Reviews",
+      "links": [],
+      "testimonials": [
+        {
+          "author": "Dr. John Graham, Graham Orthodontics",
+          "testimonial": "“Working with Rooster Grin’s team was incredibly easy. I gave them a short brief of what I wanted and they hit it out of the park. I couldn’t be happier.”"
+        },
+        {
+          "author": "Manjari K.",
+          "testimonial": "“I am so happy with Rooster Grin. I love the online scheduling widget — we have had multiple new patients use it to schedule consults and one said it was the easiest appointment she has ever made.”"
+        },
+        {
+          "author": "Fionnat",
+          "testimonial": "“Outstanding customer service. They went above and beyond to set up our four offices with their patient confirmation system. I can't say enough about the customer service.”"
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": ""
+    },
+    {
+      "acf_fc_layout": "multi_use_banner",
+      "title": "Ready to Get Started?",
+      "content_block": "text_block",
+      "text": "",
+      "social_links": [],
+      "email": "info@roostergrin.com",
+      "button": {
+        "type": "nuxt",
+        "style": "primary",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": false,
+        "include_icon": false,
+        "icon": "",
+        "color": ""
+      },
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "background_type": "has_background",
+      "background": "bg2",
+      "add_texture": false,
+      "linear_gradient": "",
+      "image": {
+        "src": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.jpg",
+        "webp": "https://d25xczrsvvsqdg.cloudfront.net/droubre-home-social-banner.webp",
+        "alt": "Team enjoying time together in a bright, welcoming space",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "center",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "New Patients Hero"
+        }
+      },
+      "reversed": false,
+      "centered": true,
+      "large_title": true,
+      "text_color": "primary"
+    },
+    {
       "seo": {
-        "page_title": "Home - Lakeshore Orthodontics",
-        "page_description": "Lakeshore Orthodontics provides family-oriented orthodontic care with braces, Invisalign® retainers, and easy scheduling in Emeryville, ON.",
-        "page_keywords": "orthodontics, Invisalign, braces, retainers, family orthodontist, Emeryville",
+        "page_title": "Home - Rooster Grin Media",
+        "page_description": "Rooster Grin Media builds websites, marketing, scheduling, and secure patient forms to help small healthcare practices grow and connect with patients.",
+        "page_keywords": "digital marketing, web design, patient scheduling, practice automation, HIPAA forms, Rooster Grin Media",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Home - Lakeshore Orthodontics",
-            "description": "Lakeshore Orthodontics provides family-oriented orthodontic care with braces, Invisalign® retainers, and easy scheduling in Emeryville, ON.",
-            "image": "https://ik.imagekit.io/rooster/tr:w-1920,h-1080,f-jpg,q-80/203779424_People_happiness_and_facial_expressions_concept_Pr.jpg"
+            "title": "Home - Rooster Grin Media",
+            "description": "Rooster Grin Media builds websites, marketing, scheduling, and secure patient forms to help small healthcare practices grow and connect with patients.",
+            "image": "https://d22lbo23j84nfg.cloudfront.net/home/home-web-1.jpeg"
           }
         }
       }
